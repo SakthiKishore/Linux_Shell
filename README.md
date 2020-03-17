@@ -1,3 +1,3 @@
 # Linux Shell
 
-Shell scirpts to automate tasks
+Shell scripts to automate tasks
